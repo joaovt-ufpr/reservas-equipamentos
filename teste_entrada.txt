@@ -1,0 +1,51 @@
+1
+101
+Notebook
+Dell Inspiron
+1
+102
+Notebook
+Lenovo IdeaPad
+1
+201
+Tablet
+Samsung Tab
+1
+101
+2
+101
+Ana Souza
+10/10/2026
+08:00
+2
+101
+Pedro Lima
+10/10/2026
+08:00
+2
+102
+Pedro Lima
+31-02-2026
+08:00
+2
+999
+2
+201
+Carlos
+10/10/2026
+14:00
+3
+Notebook
+4
+10/10/2026
+5
+101
+10/10/2026
+08:00
+2
+101
+Pedro Lima
+10/10/2026
+08:00
+6
+0
