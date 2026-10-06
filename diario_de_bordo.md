@@ -5,9 +5,9 @@ subtitle: "Estrutura de Dados I — Trabalho Prático I — UFPR (TADS)"
 
 **Autor:** João Victor Timoteo (trabalho individual)
 
-**Professor(a):** <NOME_DO_PROFESSOR>
+**Professor(a):** <HELCIO_PADILHA>
 
-**Repositório:** <LINK_DO_GITHUB>
+**Repositório:** <https://github.com/joaovt-ufpr/reservas-equipamentos>
 
 # 1. Quem fez o quê
 
@@ -27,7 +27,7 @@ Pensei assim: cada tipo tem uma "ficha" (o cabeçalho) com o nome do tipo e a co
 
 # 4. Relato semanal
 
-## Semana 1 — <DATA_INICIO> a <DATA_FIM>
+## Semana 1 — 
 
 **O que fiz**
 
@@ -62,7 +62,7 @@ cab->qtdEquipamentos++;
 
 Primeiro eu vejo se a lista desse tipo está vazia. Se estiver, o equipamento novo passa a ser o primeiro. Se já tiver itens, eu começo no primeiro e vou "andando" de um em um até chegar no último (o que não aponta para ninguém). Aí ligo o novo equipamento no fim. No final somo 1 no contador que fica no cabeçalho, assim sei quantos equipamentos o tipo tem sem precisar contar de novo.
 
-## Semana 2 — <DATA_INICIO> a <DATA_FIM>
+## Semana 2 — 
 
 **O que fiz**
 

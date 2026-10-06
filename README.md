@@ -4,7 +4,7 @@ Trabalho Prático I — Estrutura de Dados I
 Tecnologia em Análise e Desenvolvimento de Sistemas — UFPR
 
 **Autor:** João Victor Timoteo (trabalho individual)
-**Professor(a):** <NOME_DO_PROFESSOR>
+**Professor(a):** <HELCIO_PADILHA
 
 ## Sobre o projeto
 
