@@ -5,9 +5,9 @@ subtitle: "Estrutura de Dados I — Trabalho Prático I — UFPR (TADS)"
 
 **Autor:** João Victor Timoteo (trabalho individual)
 
-**Professor(a):** <HELCIO_PADILHA>
+**Professor(a):** HELCIO PADILHA
 
-**Repositório:** <https://github.com/joaovt-ufpr/reservas-equipamentos>
+**Repositório:** https://github.com/joaovt-ufpr/reservas-equipamentos
 
 # 1. Quem fez o quê
 
